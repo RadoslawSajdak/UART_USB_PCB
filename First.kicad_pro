@@ -384,7 +384,6 @@
         "nets": [
           "+3V3",
           "GND",
-          "Net-(D1-Pad1)",
           "VBUS"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
